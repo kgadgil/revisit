@@ -1,16 +1,9 @@
 # visited_again
 
-A new Flutter project.
+Flutter project to revisit files from Downloads folder. Keep it or delete it. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Thought process
+1. Get permission to file storage
+2. Get random file
+3. Display name of file, give option to open the file
+4. Provide buttons to make decisions on the file, either keep the file where it is, share it on other apps like Drive, Telegram, or delete it. 
